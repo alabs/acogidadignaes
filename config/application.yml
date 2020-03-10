@@ -1,9 +1,0 @@
-DATABASE_URL: postgres://decidim_app:Passw0rd@localhost/decidim_prod
-
-SECRET_KEY_BASE: 2e0b08b12b0de8cb3b69fd74856d6dc041e09c025cca62cad573dbbe2d456c013e45e6984ba587a327127a223adee60b805dff618e1da31fde43dac0400fada5
-
-SMTP_USERNAME: apikey
-SMTP_PASSWORD: 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
-SMTP_ADDRESS: smtp.sendgrid.net
-SMTP_DOMAIN: sendgrid.net
-
