@@ -2,7 +2,7 @@
 
 Decidim.configure do |config|
 	config.application_name = "AcogidaDigna"
-	config.mailer_sender = "decidim@acogidadigna.es"
+	config.mailer_sender = "info@acogidadigna.es"
 
   # Change these lines to set your preferred locales
   config.default_locale = :es
