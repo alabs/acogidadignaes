@@ -16,7 +16,7 @@ gem "puma", ">= 4.3"
 gem "uglifier", "~> 4.1"
 
 gem "faker", "~> 1.9"
-gem "sidekiq", "~> 5.2"
+gem "sidekiq", "~> 6.4"
 gem "figaro"
 gem "wicked_pdf", "~> 1.1"
 gem 'wkhtmltopdf-binary'
